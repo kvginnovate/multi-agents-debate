@@ -1,0 +1,8 @@
+openai
+tiktoken==0.4.0
+tqdm
+langcodes
+backoff
+language_data
+google-generativeai
+dashscope
